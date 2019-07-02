@@ -4,9 +4,12 @@
 // @version      1.1.0
 // @description  一统登录
 // @author       xxx
-// @match      https://*
+// @match      https://*.xiaoheiban.cn/web/*
 // ==/UserScript==
 
+/**
+ * 1.1.0: 周日不加
+ */
 
 (function () {
     'use strict';
