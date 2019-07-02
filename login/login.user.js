@@ -10,7 +10,7 @@
 
 (function () {
     'use strict';
-    let mobile =15021833596
+    let mobile ='******'
     setTimeout(()=>{
         // 判断是否是第一次
         let hash = window.location.hash
@@ -30,10 +30,10 @@
 
         // 计算密码值，把账号密码填充
         setNumber(userNameElement,Number(mobile))
-        setNumber(passwordElement,getPassWord())
+        setNumber(passwordElement,getNumber())
 
         // 点击登录
-        // clickButton()
+        clickButton()
     }
     function setNumber(element, value) {
         element.focus()
@@ -47,7 +47,7 @@
         console.log(button)
     }
 
-    function getPassWord(){
+    function getNumber(){
         let date = new Date()
         let month = date.getMonth()+1
         month = month>=10?month:`0${month}`
