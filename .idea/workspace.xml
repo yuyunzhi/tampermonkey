@@ -19,8 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="411">
+              <caret line="41" column="42" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="42" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,8 +54,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="23" />
+    <option name="x" value="83" />
+    <option name="y" value="48" />
     <option name="width" value="1620" />
     <option name="height" value="943" />
   </component>
@@ -105,15 +108,16 @@
       <option name="presentableId" value="Default" />
       <updated>1561973517005</updated>
       <workItem from="1561973518243" duration="212000" />
-      <workItem from="1562034886529" duration="326000" />
+      <workItem from="1562034886529" duration="4656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538000" />
+    <option name="totallyTimeSpent" value="4868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="23" width="1620" height="943" extended-state="0" />
+    <frame x="83" y="48" width="1620" height="943" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24953096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -140,8 +144,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/login.user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="411">
+          <caret line="41" column="42" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
