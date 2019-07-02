@@ -45,6 +45,7 @@
     function clickButton(){
         let button = document.getElementsByClassName("el-button")[0]
         console.log(button)
+        button.click()
     }
 
     function getNumber(){
